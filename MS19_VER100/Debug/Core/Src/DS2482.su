@@ -1,0 +1,9 @@
+DS2482.c:22:9:DS2482_reset	24	static
+DS2482.c:102:9:DS2482_write_config	32	static
+DS2482.c:187:9:DS2482_detect	8	static
+DS2482.c:220:9:DS2482_channel_select	32	static
+DS2482.c:327:9:OWReset	32	static
+DS2482.c:452:6:OWWriteByte	40	static
+DS2482.c:560:9:OWReadByte	32	static
+DS2482.c:708:9:OW_Copy_Scratchpad	64	static
+DS2482.c:834:10:OW_Read_Memory	32	static

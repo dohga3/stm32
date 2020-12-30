@@ -1,0 +1,14 @@
+stm32g4xx_ll_spi.h:382:26:LL_SPI_IsEnabled	16	static
+stm32g4xx_ll_spi.h:775:22:LL_SPI_SetCRCPolynomial	16	static
+stm32g4xx_ll_spi.h:1660:26:LL_I2S_IsEnabled	16	static
+stm32g4xx_ll_bus.h:1141:22:LL_APB1_GRP1_ForceReset	16	static
+stm32g4xx_ll_bus.h:1211:22:LL_APB1_GRP1_ReleaseReset	16	static
+stm32g4xx_ll_bus.h:1541:22:LL_APB2_GRP1_ForceReset	16	static
+stm32g4xx_ll_bus.h:1577:22:LL_APB2_GRP1_ReleaseReset	16	static
+stm32g4xx_ll_spi.c:134:13:LL_SPI_DeInit	24	static
+stm32g4xx_ll_spi.c:201:13:LL_SPI_Init	24	static
+stm32g4xx_ll_spi.c:273:6:LL_SPI_StructInit	16	static
+stm32g4xx_ll_spi.c:377:13:LL_I2S_DeInit	16	static
+stm32g4xx_ll_spi.c:392:13:LL_I2S_Init	40	static
+stm32g4xx_ll_spi.c:499:6:LL_I2S_StructInit	16	static
+stm32g4xx_ll_spi.c:521:6:LL_I2S_ConfigPrescaler	24	static

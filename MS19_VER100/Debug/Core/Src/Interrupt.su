@@ -1,0 +1,5 @@
+stm32g4xx_ll_gpio.h:814:26:LL_GPIO_IsInputPinSet	16	static
+stm32g4xx_ll_gpio.h:895:22:LL_GPIO_SetOutputPin	16	static
+stm32g4xx_ll_gpio.h:924:22:LL_GPIO_ResetOutputPin	16	static
+Interrupt.c:16:6:HAL_TIM_PeriodElapsedCallback	16	static
+Interrupt.c:496:6:HAL_IncTick	8	static
